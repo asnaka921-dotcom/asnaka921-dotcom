@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Asna 👋
 
-<!--
-**asnaka921-dotcom/asnaka921-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Computer Science student
+- 💻 Interested in Web Development and AI
+- 🌱 Currently learning React and Python
+- 📫 Reach me at: your-email@example.com
 
-Here are some ideas to get you started:
+## Skills
+- HTML, CSS, JavaScript
+- Python
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Project 1: Brief description
+- Project 2: Brief description
+
+## Connect with Me
+- LinkedIn: https://linkedin.com/in/yourprofile
